@@ -55,15 +55,12 @@ const questions = () => {
     ]);
   };
 
-// function to write README file
-function writeToFile(fileName, data) {
-const readme = generateMarkdown(data);
-}
-// TODO: Create a function to initialize app
+
+// initialize app
 function init(){
 
     questions()
-    .then((answers) => fs.writeToFile('README.md', generateMarkdown.generateMarkdown(answers)))
+    .then((answers) => fs.writeFileSync('README.md', generateMarkdown(answers)))
     .then(() => console.log('Successfully created README.md'))
     .catch((err) => console.error(err));
 };
