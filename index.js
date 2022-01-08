@@ -60,7 +60,7 @@ const questions = () => {
 function init(){
 
     questions()
-    .then((answers) => fs.writeFileSync('SAMPLE-README.md', generateMarkdown(answers)))
+    .then((answers) => fs.writeFileSync('README.md', generateMarkdown(answers)))
     .then(() => console.log('Successfully created README.md'))
     .catch((err) => console.error(err));
 };
