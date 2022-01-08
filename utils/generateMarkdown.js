@@ -96,7 +96,11 @@ ${data.contribution}
 ${data.testing}
 
 ## Questions
+Contact Details:
 
+- GitHub Username: ${data.github}
+- [Link to GitHub Profile](https://github.com/${data.github})
+- For additional questions, you can contact me via email: ${data.email}
 `;
 }
 
