@@ -70,6 +70,7 @@ return `# ${data.title}
 ${renderLicenseBadge(data.license)}
 
 ## Description
+${data.description}
 
 ## Table of Contents
 - [Installation](#installation)
@@ -80,15 +81,19 @@ ${renderLicenseTableOfContent(data.license)}
 - [Questions](#questions)
 
 ## Installation
+${data.installation}
 
 ## Usage
+${data.usage}
 
 ${renderLicenseSection(data.license)}
 ${renderLicenseLink(data.license)}
 
 ## Contributing
+${data.contribution}
 
 ## Tests
+${data.testing}
 
 ## Questions
 
