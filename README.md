@@ -11,7 +11,7 @@ The purpose of this application is to help developers save time creating README.
 - [License](#license)
 - [Contributing](#contributing)
 - [Tests](#tests)
-- [Demo] (#demo)
+- [Demo](#demo)
 - [Questions](#questions)
 
 
