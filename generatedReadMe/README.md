@@ -1,8 +1,8 @@
-# Sample ReadMe File
+# (Sample README) To-Do List Organizer 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Description
-Here I would answer a description
+This application will help users better organize their life by tracking to-do list items in order of priority and duration.
 
 
 ## Table of Contents
@@ -15,27 +15,27 @@ Here I would answer a description
 
 
 ## Installation
-Provide some user install instructions
+No installation required, users just need a web browser to run the application.
 
 
 ## Usage
-tell the users how to use the app
+Open the application and enter the to-do items, rating them by priority.  Also provide estimated time durations for each task.  Click submit and let the magic happen!
 
 ## License
 This application is covered under the [License: MIT](https://opensource.org/licenses/MIT).
 
 
 ## Contributing
-Add some kudos 
+No other contributors assisted with this project.
 
 
 ## Tests
-provide some test cases
+No test cases provided, but users should try entering different to-do items with varying degrees of priority and time duration.
 
 
 ## Questions
 Contact Details:
 
-- GitHub Username: gitHubUserName
-- [Link to GitHub Profile](https://github.com/gitHubUserName)
-- For additional questions, you can contact me via email: email@email.com
+- GitHub Username: gitHubUser01
+- [Link to GitHub Profile](https://github.com/gitHubUser01)
+- For additional questions, you can contact me via email: myemail@noemail.com
