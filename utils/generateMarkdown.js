@@ -39,28 +39,28 @@ function renderLicenseBadge(license) {
 function renderLicenseLink(license) {
     switch(license){
         case 'MIT License':
-            return '[MIT License](https://opensource.org/licenses/MIT)';
+            return 'This application is covered under the [License: MIT](https://opensource.org/licenses/MIT).';
         break;
         case 'GNU GPLv3':
-            return '[GNU GPLv3](https://www.gnu.org/licenses/gpl-3.0)';
+            return 'This application is covered under the [License: GNU GPLv3](https://www.gnu.org/licenses/gpl-3.0).';
         break;
         case 'GNU AGPLv3':
-            return '[AGPL v3](https://www.gnu.org/licenses/agpl-3.0)';
+            return 'This application is covered under the [License: AGPL v3](https://www.gnu.org/licenses/agpl-3.0).';
         break;
         case 'GNU LGPLv3':
-            return '[LGPL v3](https://www.gnu.org/licenses/lgpl-3.0)';
+            return 'This application is covered under the [License: LGPL v3](https://www.gnu.org/licenses/lgpl-3.0).';
         break;
         case 'Mozilla Public License 2.0':
-            return'[MPL 2.0](https://opensource.org/licenses/MPL-2.0)';
+            return 'This application is covered under the [License: MPL 2.0](https://opensource.org/licenses/MPL-2.0).';
         break;
         case 'Apache License 2.0':
-            return '[Apache 2.0](https://opensource.org/licenses/Apache-2.0))';
+            return 'This application is covered under the [License: Apache 2.0](https://opensource.org/licenses/Apache-2.0).';
         break;
         case 'Boost Software License 1.0':
-            return '[Boost Software License 1.0](https://www.boost.org/LICENSE_1_0.txt)';
+            return 'This application is covered under the [License: Boost Software License 1.0](https://www.boost.org/LICENSE_1_0.txt).';
         break;
         case 'The Unlicense':
-            return'[Unlicense](http://unlicense.org/)';
+            return 'This application is covered under the [License: Unlicense](http://unlicense.org/).';
         default:
             return '';
 
