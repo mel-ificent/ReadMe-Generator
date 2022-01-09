@@ -36,6 +36,6 @@ No test cases provided, but users should try entering different to-do items with
 ## Questions
 Contact Details:
 
-- GitHub Username: gitHubUser01
-- [Link to GitHub Profile](https://github.com/gitHubUser01)
-- For additional questions, you can contact me via email: myemail@noemail.com
+- GitHub Username: mel-ificent
+- [Link to GitHub Profile](https://github.com/mel-ificent)
+- For additional questions, you can contact me via email: melissadonato11@gmail.com
