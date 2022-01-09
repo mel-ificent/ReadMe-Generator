@@ -6,6 +6,7 @@ The purpose of this application is to help developers save time creating README.
 
 
 ## Table of Contents
+- [User-Story](#user-story)
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
@@ -14,7 +15,13 @@ The purpose of this application is to help developers save time creating README.
 - [Demo](#demo)
 - [Questions](#questions)
 
+## User-Story
 
+```md
+AS A developer
+I WANT a README generator
+SO THAT I can quickly create a professional README for a new project
+```
 ## Installation
 This code requires the following to be installed:<br> - Node.js<br> -  [Inquirer package](https://www.npmjs.com/package/inquirer)<br><br>  Note: consider creating a .gitignore file and include node_modules/ and .DS_Store/ so that your node_modules directory isn't tracked or uploaded to GitHub. Be sure to create your. .gitignore file before installing any npm dependencies.
 
