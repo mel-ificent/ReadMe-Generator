@@ -106,6 +106,7 @@ ${renderLicenseBadge(data.license)}
 ## Description
 ${data.description}
 
+
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
@@ -114,8 +115,10 @@ ${renderLicenseTableOfContent(data.license)}
 - [Tests](#tests)
 - [Questions](#questions)
 
+
 ## Installation
 ${data.installation}
+
 
 ## Usage
 ${data.usage}
@@ -123,11 +126,14 @@ ${data.usage}
 ${renderLicenseSection(data.license)}
 ${renderLicenseLink(data.license)}
 
+
 ## Contributing
 ${data.contribution}
 
+
 ## Tests
 ${data.testing}
+
 
 ## Questions
 Contact Details:
