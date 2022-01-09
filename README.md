@@ -37,6 +37,8 @@ This application is covered under the [License: MIT](https://opensource.org/lice
 ## Contributing
 This program makes use of Node.js and Inquirer Package. 
 
+License badges and links referenced from [lukas-h/license-badges.md](https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba)
+
 
 ## Tests
 There are no formal test scripts that accompany this program, however, I suggest testing various answers to the prompts to see what looks best for your generated output.
